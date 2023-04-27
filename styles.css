@@ -1,0 +1,154 @@
+#title{
+    background-color: #ff4c68;
+    color:white;
+   
+    
+}
+h1{
+    font-family: "Montserrat-Black";
+    font-size: 5rem;
+    line-height: 1.5;
+    
+
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+body{
+    font-family: 'Montserrat-black';
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-black';
+}
+.image-phone{
+    width: 350px ;
+    transform: rotate(25deg);
+    position: absolute;
+    
+}
+.btn{
+    margin: 10px;
+}
+.easy{
+    font-family: 'Montserrat-black';
+    font-size: 1.5rem;
+}
+.elite{
+    font-family: 'Montserrat-black';
+    font-size: 1.5rem;
+}
+.guarantee{
+    font-family: 'Montserrat-black';
+    font-size: 1.5rem;
+}
+#features{
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+.feat{
+    padding: 100px;
+}
+p{
+    color: #8f8f8f;
+}
+.icon-color{
+    color: #ef8172;
+    padding-bottom: 10px;
+}
+.icon-color:hover{
+    color: #ff4c68;
+}
+.col-lg-4{
+   text-align: center;
+}
+.test{
+    font-family: "Montserrat-Black";
+    background-color:#ef8172 ;
+    padding-top: 100px;
+    padding-left: 400px;
+    padding-right: 400px;
+    text-align: center;
+}
+#press{
+    background-color:#ef8172 ;
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
+.pr{
+    width: 15rem;
+}
+.test-image{
+    border-radius: 100%;
+    width: 10rem;
+}
+#pricing{
+    font-family: "Montserrat-Black";
+    text-align: center;
+}
+h1{
+    padding-top: 60px;
+}
+.card-row{
+    padding-top: 50px;
+}
+.pricingcolumn{
+    padding: 3% 2%;
+}
+#cta{
+    height: 500px;
+    font-family: "Montserrat-Black";
+    color: white;
+    background-color: #ff4c68;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.bottom-btn{
+    padding: 10px;
+}
+#footer{
+    background-color: #fff;
+    height: 200px;
+    text-align: center;
+}
+@media (max-width:1099px){
+    #title{
+        text-align: center;
+    }
+    .image-phone{
+        position: static;
+        transform: rotate(0);
+    }
+}
+.e {
+    
+    padding: 20px;
+    padding-top: 80px;
+}
+.f {
+    padding: 20px;
+}
+.i {
+    padding: 20px;
+}
+.t {
+    padding: 20px;
+}
